@@ -1,15 +1,48 @@
-<h1 align="center">Hi 👋, I'm Abdul Gafoor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+🎭;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gafoormohammad&label=Profile%20views&color=0e75b6&style=flat" alt="gafoormohammad" /> </p>
+<h1 align="center">Hello Everyone! 👋, Abdul Gafoor Mohammad here 🌟</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gafoormohammad" alt="gafoormohammad" /></a> </p>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<p align="left"> <a href="https://twitter.com/whynottmerijaan" target="blank"><img src="https://img.shields.io/twitter/follow/whynottmerijaan?logo=twitter&style=for-the-badge" alt="whynottmerijaan" /></a> </p>
+<h3 align="center">A passionate Full-Stack Developer with a knack for problem-solving and innovation.</h3>
 
-- 🌱 I’m currently learning **AWS,MERN Full Stack**
+<p align="center">
+  <a href="https://github.com/AbdulGafoorMohammad"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Exploring%20New%20Technologies;2%2B%20Years%20of%20Experience;Always%20Curious&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
-- 📫 How to reach me **abdulgafoormd2003@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwgqgblzU9PpUpW/giphy.gif" align="center" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbdulGafoorMohammad/AbdulGafoorMohammad/assets/80691785/7e987df6-5c8f-4532-89c1-5a6f1397f616" />
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<hr>
+
+- 🌱 I am an experienced Full-Stack Developer specializing in MERN stack technologies. I've also delved into various other tech stacks, continuously learning and adapting.
+
+- 👯 Open to collaborating on innovative projects and exploring new tech frontiers.
+
+- 📫 You can reach me via email at abdulgafoormohammad@example.com
+
+- ⚡ I draw inspiration from global travel, which broadens my perspective and fosters adaptability in my coding practices.
+
+- 💞 Actively involved in volunteering and contributing to meaningful causes.
+
+- 😎 Focused on mastering Data Structures and Algorithms to enhance problem-solving skills and code efficiency.
+
+- 👀 Embracing a growth mindset to tackle challenges and continuously improve my expertise.
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
