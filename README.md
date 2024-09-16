@@ -1,7 +1,30 @@
 <p align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+🎭;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p><h1 align="center">Hi 👋, I'm Abdul Gafoor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+</p>
+
+<h1 align="center">Hello Everyone! 👋, Abdul Gafoor Mohammad here 🌟</h1>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h3 align="center">A passionate Full-Stack Developer with a knack for problem-solving and innovation.</h3>
+
+- 🌱 I am an experienced Full-Stack Developer specializing in MERN stack technologies. I've also delved into various other tech stacks, continuously learning and adapting.
+
+- 👯 Open to collaborating on innovative projects and exploring new tech frontiers.
+
+- 📫 You can reach me via email at abdulgafoormohammad@example.com
+
+- ⚡ I draw inspiration from global travel, which broadens my perspective and fosters adaptability in my coding practices.
+
+- 💞 Actively involved in volunteering and contributing to meaningful causes.
+
+- 😎 Focused on mastering Data Structures and Algorithms to enhance problem-solving skills and code efficiency.
+
+- 👀 Embracing a growth mindset to tackle challenges and continuously improve my expertise.
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gafoormohammad&label=Profile%20views&color=0e75b6&style=flat" alt="gafoormohammad" /> </p>
 
@@ -55,19 +78,6 @@
 
 <hr>
 
-- 🌱 I am an experienced Full-Stack Developer specializing in MERN stack technologies. I've also delved into various other tech stacks, continuously learning and adapting.
-
-- 👯 Open to collaborating on innovative projects and exploring new tech frontiers.
-
-- 📫 You can reach me via email at abdulgafoormohammad@example.com
-
-- ⚡ I draw inspiration from global travel, which broadens my perspective and fosters adaptability in my coding practices.
-
-- 💞 Actively involved in volunteering and contributing to meaningful causes.
-
-- 😎 Focused on mastering Data Structures and Algorithms to enhance problem-solving skills and code efficiency.
-
-- 👀 Embracing a growth mindset to tackle challenges and continuously improve my expertise.
 
 <br>
 
