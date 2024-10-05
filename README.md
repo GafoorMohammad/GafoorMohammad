@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Gafoor</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Machine+Learning+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)](https://github.com/DenverCoder1/readme-typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Machine+Learning+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/whynottmerijaan" target="blank"><img src="https://img.shields.io/twitter/follow/whynottmerijaan?logo=twitter&style=for-the-badge" alt="whynottmerijaan" /></a> </p>
 
