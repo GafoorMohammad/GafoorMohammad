@@ -135,30 +135,9 @@
 
 ---
 
-### 🎧 **Spotify Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" />
-</p>
-
----
-
-### 🐍 **Snake Eating My Contributions**
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### ✨ **Random Dev Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-### 💻 **Coding Activity**
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Coding Activity" />
 </p>
 
 ---
